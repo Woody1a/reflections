@@ -10,8 +10,7 @@ How would branches help?
 
 How do the diagrams help you visualize the branch structure? You can see the commit history in a pictorial form.
 
-What is the result of merging two branches together? Why do we represent it in
-the diagram the way we do?
+What is the result of merging two branches together? Incorporating changes from two sets of modified code.
+Why do we represent it in the diagram the way we do? To better visualize the history of changes and when they were merged.
 
-What are the pros and cons of Git’s automatic merging vs. always doing merges
-manually?
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?  Automatic takes alot of the work but the merge process can't always know which changes to incorporate into the final code.
